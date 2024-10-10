@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center"><a href="https://peterhan.dev">Hi, I'm Ana Fábia 👋</a></h1>
 
-<!--
-**afcoelho44/afcoelho44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/peterthehan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+  <a href="https://www.linkedin.com/in/peterthehan">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+  <a href="https://www.npmjs.com/~peterthehan">
+    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/npm"></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://discord.gg/WjEFnzC">
+    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
+  <a href="https://youtube.com/@peterthehan">
+    <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
