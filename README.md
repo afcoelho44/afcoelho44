@@ -7,6 +7,4 @@
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="www.linkedin.com/in/ana-fábia-coelho-dos-santos-12475624b">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
-  <a href="https://www.npmjs.com/~peterthehan">
-    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/npm"></a>
 </p>
