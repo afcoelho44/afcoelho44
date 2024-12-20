@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/afcoelho44">Hi, I'm Ana Fábia 👋</a></h1>
+<h1 align="center"><a href="https://github.com/afcoelho44">Oiê, bem-vindo ao perfil! 👋</a></h1>
 
 <p align="center">
   <a href="https://github.com/afcoelho44">
@@ -12,9 +12,9 @@
 ---
 
 ### 👩‍💻 Sobre Mim
-- 🌱 **Buscando aprender e inovar:** Sou desenvolvedora de software apaixonada por criar soluções criativas e impactantes.
+- 🌱 **Buscando aprender e inovar:** Sou desenvolvedora de software adoro criar soluções criativas e impactantes.
 - 💡 **Interesses:** Desenvolvimento Mobile, Backend e IA.
-- 🎓 **Formação:** Estudante de Engenharia de Software na UNIFAP.
+- 🎓 **Formação:** Estudante de Engenharia de Software na UDESC.
 
 ---
 
