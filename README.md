@@ -46,7 +46,7 @@
 
 ### 📫 Contato
 <p align="center">
-  <a href="mailto:ana.fabia@example.com">
+  <a href="mailto:afcoelho44@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email" title="Email"></a>
   <a href="https://www.linkedin.com/in/ana-fábia-coelho-dos-santos-12475624b">
     <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="32" alt="LinkedIn" title="LinkedIn"></a>
